@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3A4302508637F4A92F04E0E3AE6CB18D64F839A6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3A4302508637F4A92F04E0E3AE6CB18D64F839A6" : 9223372036854775807,
+    "6D97EA148573B3DEC0E705A25B78217DC12873FD" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "79330078-7787-4CD2-9E4C-FE68FB7AFBEF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3A4302508637F4A92F04E0E3AE6CB18D64F839A6" : "YAChattingRoom\/",
+    "6D97EA148573B3DEC0E705A25B78217DC12873FD" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ChattingRoom",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ChattingRoom.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/XuYanci\/YAChattingRoom.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3A4302508637F4A92F04E0E3AE6CB18D64F839A6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/XuYanci\/Monkey.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D97EA148573B3DEC0E705A25B78217DC12873FD"
+    }
+  ]
+}

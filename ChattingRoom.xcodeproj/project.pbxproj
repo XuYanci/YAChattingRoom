@@ -76,7 +76,6 @@
 		A2A737841910C61A00BAD8F1 /* btn_picture_p.png in Resources */ = {isa = PBXBuildFile; fileRef = A2A737781910C61A00BAD8F1 /* btn_picture_p.png */; };
 		A2A737851910C61A00BAD8F1 /* btn_send_n.png in Resources */ = {isa = PBXBuildFile; fileRef = A2A737791910C61A00BAD8F1 /* btn_send_n.png */; };
 		A2A737861910C61A00BAD8F1 /* btn_send_p.png in Resources */ = {isa = PBXBuildFile; fileRef = A2A7377A1910C61A00BAD8F1 /* btn_send_p.png */; };
-		A2AFA546191C702D00E9ABFE /* readme.rtf in Resources */ = {isa = PBXBuildFile; fileRef = A2AFA545191C702D00E9ABFE /* readme.rtf */; };
 		A2B3C28419172655009CA27F /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A2B3C28319172655009CA27F /* CoreText.framework */; };
 		A2B3C28A19177380009CA27F /* YARichText.m in Sources */ = {isa = PBXBuildFile; fileRef = A2B3C28919177380009CA27F /* YARichText.m */; };
 		A2B607F01915CFF600C60A88 /* btn_close_press@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A2B607E81915CFF600C60A88 /* btn_close_press@2x.png */; };
@@ -203,7 +202,6 @@
 		A2A737791910C61A00BAD8F1 /* btn_send_n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_send_n.png; sourceTree = "<group>"; };
 		A2A7377A1910C61A00BAD8F1 /* btn_send_p.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_send_p.png; sourceTree = "<group>"; };
 		A2A737981910FC4D00BAD8F1 /* chatroom_public.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = chatroom_public.h; sourceTree = "<group>"; };
-		A2AFA545191C702D00E9ABFE /* readme.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = readme.rtf; sourceTree = "<group>"; };
 		A2AFA54D191C77F500E9ABFE /* debug.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = debug.h; sourceTree = "<group>"; };
 		A2B3C28319172655009CA27F /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
 		A2B3C28819177380009CA27F /* YARichText.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YARichText.h; sourceTree = "<group>"; };
@@ -326,7 +324,6 @@
 				A275D51F190E075100216F63 /* Images.xcassets */,
 				A275D50B190E075100216F63 /* Supporting Files */,
 				A24754E2191A38A60083B216 /* tlv.h */,
-				A2AFA545191C702D00E9ABFE /* readme.rtf */,
 			);
 			path = ChattingRoom;
 			sourceTree = "<group>";
@@ -577,7 +574,6 @@
 				A21D9590190F90A800EFA20F /* f_27.png in Resources */,
 				A21D959D190F90A800EFA20F /* f_40.png in Resources */,
 				A21D9596190F90A800EFA20F /* f_33.png in Resources */,
-				A2AFA546191C702D00E9ABFE /* readme.rtf in Resources */,
 				A21D958F190F90A800EFA20F /* f_26.png in Resources */,
 				A21D958C190F90A800EFA20F /* f_23.png in Resources */,
 				A21D9594190F90A800EFA20F /* f_31.png in Resources */,
